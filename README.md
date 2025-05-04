@@ -1,7 +1,3 @@
-# world-bank-loan-analysis-dashboard
-A data dashboard built in Excel using World Bank IBRD loan snapshot data (2025).
-# World Bank IBRD Loan Analysis Dashboard
-
 This project analyzes global loan data from the World Bank IBRD (as of April 2025).  
 It uses Excel with Power Pivot, DAX measures, and dynamic slicers to present insights on:
 
